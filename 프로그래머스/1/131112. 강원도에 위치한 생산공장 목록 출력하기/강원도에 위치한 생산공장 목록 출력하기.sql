@@ -1,0 +1,1 @@
+SELECT FACTORY_ID, FACTORY_NAME, ADDRESS FROM food_factory WHERE address LIKE '강원도%' ORDER BY factory_id;
